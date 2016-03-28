@@ -10,7 +10,11 @@ Connection: close
 Content-Type: application/x-www-form-urlencoded
 Content-Length: 50
 
+<<<<<<< HEAD
 act=add&name=xxxx&password=xxxx&verify=1031
+=======
+act=add&name=132003104&password=125433&verify=1031
+>>>>>>> 70526bcb91bf6bde4855e9335077885562d64a24
 
 
 url=http://samself.yzu.edu.cn:8080/selfservice/module/scgroup/web/login_judge.jsf
