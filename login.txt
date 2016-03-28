@@ -1,0 +1,16 @@
+POST /selfservice/module/scgroup/web/login_judge.jsf HTTP/1.1
+Host: samself.yzu.edu.cn:8080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-CN,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://samself.yzu.edu.cn:8080/selfservice/module/scgroup/web/login_self.jsf
+Cookie: JSESSIONID=27D308E8C822237AEB3454EFFDA57E12
+Connection: close
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 50
+
+act=add&name=xxxx&password=xxxx&verify=1031
+
+
+url=http://samself.yzu.edu.cn:8080/selfservice/module/scgroup/web/login_judge.jsf
